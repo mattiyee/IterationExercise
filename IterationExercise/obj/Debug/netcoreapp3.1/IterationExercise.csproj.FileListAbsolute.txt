@@ -1,0 +1,13 @@
+C:\Users\matti\Desktop\repos\IterationExercise\IterationExercise\bin\Debug\netcoreapp3.1\IterationExercise.exe
+C:\Users\matti\Desktop\repos\IterationExercise\IterationExercise\bin\Debug\netcoreapp3.1\IterationExercise.deps.json
+C:\Users\matti\Desktop\repos\IterationExercise\IterationExercise\bin\Debug\netcoreapp3.1\IterationExercise.runtimeconfig.json
+C:\Users\matti\Desktop\repos\IterationExercise\IterationExercise\bin\Debug\netcoreapp3.1\IterationExercise.runtimeconfig.dev.json
+C:\Users\matti\Desktop\repos\IterationExercise\IterationExercise\bin\Debug\netcoreapp3.1\IterationExercise.dll
+C:\Users\matti\Desktop\repos\IterationExercise\IterationExercise\bin\Debug\netcoreapp3.1\IterationExercise.pdb
+C:\Users\matti\Desktop\repos\IterationExercise\IterationExercise\obj\Debug\netcoreapp3.1\IterationExercise.csprojAssemblyReference.cache
+C:\Users\matti\Desktop\repos\IterationExercise\IterationExercise\obj\Debug\netcoreapp3.1\IterationExercise.AssemblyInfoInputs.cache
+C:\Users\matti\Desktop\repos\IterationExercise\IterationExercise\obj\Debug\netcoreapp3.1\IterationExercise.AssemblyInfo.cs
+C:\Users\matti\Desktop\repos\IterationExercise\IterationExercise\obj\Debug\netcoreapp3.1\IterationExercise.csproj.CoreCompileInputs.cache
+C:\Users\matti\Desktop\repos\IterationExercise\IterationExercise\obj\Debug\netcoreapp3.1\IterationExercise.dll
+C:\Users\matti\Desktop\repos\IterationExercise\IterationExercise\obj\Debug\netcoreapp3.1\IterationExercise.pdb
+C:\Users\matti\Desktop\repos\IterationExercise\IterationExercise\obj\Debug\netcoreapp3.1\IterationExercise.genruntimeconfig.cache
